@@ -66,14 +66,14 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A Swedish-American immigrant family builds a farm and community on the Nebraska prairie.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; &lt;i&gt;O Pioneers!&lt;/i&gt; was first published in June of 1913 by Houghton Mifflin to high praise. Cather was immensely proud of the work and considered it her first "true" novel, having discovered her own form and subject.&lt;/p&gt;
-			&lt;p&gt;Told in five parts, &lt;i&gt;O Pioneers!&lt;/i&gt; follows the Bergsons, a family of Swedish-American immigrants farming the prairie of Nebraska at the turn of the 20th century. After the death of her father, heroine Alexandra Bergson inherits and transforms the family farm from a precarious to prospers enterprise. In the ensuing years she navigates duty, familial pressures, loss, and uncertain romance.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; &lt;i&gt;O Pioneers!&lt;/i&gt; was first published in June of 1913 by Houghton Mifflin to high praise. Cather was immensely proud of the work and considered it her first “true” novel, having discovered her own form and subject.&lt;/p&gt;
+			&lt;p&gt;Told in five parts, &lt;i&gt;O Pioneers!&lt;/i&gt; follows the Bergsons, a family of Swedish-American immigrants farming the prairie of Nebraska at the turn of the 20th century. After the death of her father, heroine Alexandra Bergson inherits and transforms the family farm from a precarious to prospers enterprise. In the ensuing years she navigates duty, familial pressures, loss, and uncertain romance.&lt;/p&gt;
 			&lt;p&gt;With its independent, entrepreneurial female main character, &lt;i&gt;O Pioneers!&lt;/i&gt; can be read as a deeply feminist novel that nevertheless upholds American ideals of national destiny through pastoral settlement.&lt;/p&gt;
 			&lt;p&gt;Cather spent much of her early life in Nebraska to which she pays homage in her Prairie Trilogy of novels, comprised of &lt;i&gt;O Pioneers!&lt;/i&gt;, &lt;i&gt;The Song of the Lark&lt;/i&gt;, and &lt;a href="https://standardebooks.org/ebooks/willa-cather/my-antonia"&gt;&lt;i&gt;My Ántonia&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24</dc:source>
-		<dc:source>https://hdl.handle.net/2027/mdp.39015005089597</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000624022</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/O_Pioneers</meta>
@@ -87,7 +87,7 @@
 		<dc:contributor id="artist">Winslow Homer</dc:contributor>
 		<meta property="file-as" refines="#artist">Homer, Winslow</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79023170.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Martin Robb</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Robb, Martin</meta>
@@ -144,6 +144,7 @@
 		<item href="text/chapter-5-2.xhtml" id="chapter-5-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-5-3.xhtml" id="chapter-5-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
