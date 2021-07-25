@@ -92,7 +92,7 @@
 		<dc:contributor id="transcriber-1">Martin Robb</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Robb, Martin</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alexander Reese</dc:contributor>
