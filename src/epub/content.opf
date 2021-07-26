@@ -74,7 +74,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000624022</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:word-count">56743</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/O_Pioneers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_o-pioneers</meta>
@@ -104,6 +104,11 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-2">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/thewchan</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
