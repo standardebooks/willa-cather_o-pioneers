@@ -71,7 +71,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000572133</dc:source>
-		<meta property="se:word-count">56743</meta>
+		<meta property="se:word-count">56709</meta>
 		<meta property="se:reading-ease.flesch">82.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/O_Pioneers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_o-pioneers</meta>
