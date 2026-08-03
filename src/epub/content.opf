@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/willa-cather/o-pioneers</dc:identifier>
 		<dc:date>2021-07-26T01:33:57Z</dc:date>
@@ -64,12 +64,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Prairie Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A Swedish-American immigrant family builds a farm and community on the Nebraska prairie.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A Swedish-American immigrant family builds a farm and community on the Nebraska prairie.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; &lt;i&gt;O Pioneers!&lt;/i&gt; was first published in June of 1913 by Houghton Mifflin to high praise. Cather was immensely proud of the work and considered it her first “true” novel, having discovered her own form and subject.&lt;/p&gt;
 			&lt;p&gt;Told in five parts, &lt;i&gt;O Pioneers!&lt;/i&gt; follows the Bergsons, a family of Swedish-American immigrants farming the prairie of Nebraska at the turn of the 20th century. After the death of her father, heroine Alexandra Bergson inherits the family farm, using her insight to transform it from a precarious enterprise to a prosperous one over the following decade. As the Nebraskan farming community grows and her older brothers build families and comfortable lives, Alexandra remains independent, attached only to the land, her youngest brother, Emil, and her neighbor, Marie Shabata. These three central characters navigate duty, familial pressures, tragedy, and uncertain romance.&lt;/p&gt;
 			&lt;p&gt;With its independent, entrepreneurial female main character, &lt;i&gt;O Pioneers!&lt;/i&gt; can be read as a deeply feminist novel that nevertheless upholds American ideals of national destiny through pastoral settlement.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000572133</dc:source>
