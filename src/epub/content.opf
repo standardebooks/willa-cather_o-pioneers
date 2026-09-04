@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">O Pioneers!</dc:title>
 		<meta property="file-as" refines="#title">O Pioneers!</meta>
-		<dc:subject id="subject-1">Nebraska -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Frontier and pioneer life -- Nebraska -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Brothers and sisters -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Farm life -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Women pioneers -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Women farmers -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Women immigrants -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Swedish Americans -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Nebraska--Fiction</dc:subject>
+		<dc:subject id="subject-2">Frontier and pioneer life--Nebraska--Fiction</dc:subject>
+		<dc:subject id="subject-3">Brothers and sisters--Fiction</dc:subject>
+		<dc:subject id="subject-4">Farm life--Fiction</dc:subject>
+		<dc:subject id="subject-5">Women pioneers--Fiction</dc:subject>
+		<dc:subject id="subject-6">Women farmers--Fiction</dc:subject>
+		<dc:subject id="subject-7">Women immigrants--Fiction</dc:subject>
+		<dc:subject id="subject-8">Swedish Americans--Fiction</dc:subject>
 		<dc:subject id="subject-9">Historical fiction</dc:subject>
 		<dc:subject id="subject-10">Domestic fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
